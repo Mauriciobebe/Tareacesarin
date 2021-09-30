@@ -1,0 +1,23 @@
+body{
+	background-color: bisque;
+	background-size: 100%;
+}
+
+.cuerpo{
+	font-family: "Comic Sans MS";
+	color: rgb(68, 50, 17);
+	font-size: 50px;
+   	resize: none;
+
+}
+.nombres{
+	font-family: "Comic Sans MS";
+
+}
+
+.boton{
+	text-decoration: none;
+	font-family: "Comic Sans MS";
+    padding: 10px;
+    background-color: #ffffff;
+}
